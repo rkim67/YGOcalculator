@@ -1,0 +1,19 @@
+
+
+
+button{
+    width: 50px;
+    height: 30px;
+    border-radius: 5px 5px 5px 5px;
+    color: black;
+}
+
+.LP{
+    border-style: solid;
+    font-size: 100px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+}
