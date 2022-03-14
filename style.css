@@ -4,7 +4,7 @@ body{
 
 button{
     width: 250px;
-    height: 250px;
+    height: 220px;
     border-radius: 10px 10px 10px 10px;
     color: white;
     background-color: grey;
@@ -92,4 +92,13 @@ button{
 
 #display, #display2{
     width: 200px;
+}
+
+#countdown{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 50px;
+    margin-top: 20px;
+    
 }
