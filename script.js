@@ -154,4 +154,6 @@ reset.addEventListener("click", () =>{
     player2.textContent = "8000";
     p1 = 8000;
     p2 = 8000;
+    display = 0;
+    displayNum.textContent = display;
 })
